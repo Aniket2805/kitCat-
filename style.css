@@ -252,7 +252,7 @@ input[type=number] {
     margin-top: 40px;
     width: 100%;
 }
-span{
+.inputbox span{
     position: absolute;
     left: 0;
     transition: 0.5s;
